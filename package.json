@@ -1,0 +1,16 @@
+{
+    "name": "email-validator",
+    "version": "1.0.0",
+    "description": "A simple email validator with domain validation",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "dns": "0.2.2"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
